@@ -18,7 +18,7 @@ namespace CRMExample.WebApp.Controllers
             return View();
         }
 
-        public IActionResult Dashboard()
+        public IActionResult Privacy()
         {
             return View();
         }
